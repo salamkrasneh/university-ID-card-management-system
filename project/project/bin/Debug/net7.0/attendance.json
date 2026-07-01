@@ -1,0 +1,22 @@
+[
+  {
+    "courseId": "SE400",
+    "date": "1/1",
+    "Attendees": [
+      "20",
+      "S01",
+      "S02"
+    ],
+    "CourseId": "SE400",
+    "Date": "1/1"
+  },
+  {
+    "courseId": "11",
+    "date": "1/1",
+    "Attendees": [
+      "30"
+    ],
+    "CourseId": "11",
+    "Date": "1/1"
+  }
+]
